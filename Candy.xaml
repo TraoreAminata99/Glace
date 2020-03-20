@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Glace.Candy" NavigationPage.HasNavigationBar="False">
+
+
+
+    <ScrollView>
+
+
+        <StackLayout >
+
+            <StackLayout>
+                <Image Source="img" Aspect="AspectFill" HeightRequest="300"/>
+            </StackLayout>
+
+            <StackLayout>
+
+                <Frame BackgroundColor="White" HeightRequest="500" CornerRadius="20" TranslationY="-30">
+                    <StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="index1" HeightRequest="30" />
+                        <StackLayout TranslationX="20">
+                            <Label Text="jason Martinez" TextColor="Black" FontSize="30" FontAttributes="Bold"/>
+                            <Label Text="Wanderlirst travel" TranslationX="10" TranslationY="-10"/>
+                        </StackLayout>
+                        <Label Text="☺  3928" FontSize="15" FontAttributes="Bold" TranslationY="15" TranslationX="40"/>
+                    </StackLayout>
+
+
+                        <StackLayout>
+                            <Label TranslationY="20" Text="Creative ice cream DIVI" TextColor="Black" FontSize="20" FontAttributes="Bold"/>
+
+                            <Label TranslationY="30" Text="In the new ero, the process of making ice cream is constantly being Improved, and people are constantly experimenting with new flavors and shapes with creativity and technology. Let's enter the world of ice cream..."/>
+
+                        </StackLayout>
+
+                        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand" TranslationY="50">
+
+                            <Button Text="Add a Comment" CornerRadius="20" TranslationX="-20"/>
+                            <Label Text="♥" TranslationX="30" TranslationY="20"/>
+                            <Label Text="♥"  TranslationX="40" TranslationY="20"/>
+                        </StackLayout>
+
+                    </StackLayout>
+                        
+                    
+                </Frame>
+                
+            </StackLayout>
+            
+        </StackLayout>
+        
+        
+    </ScrollView>
+    
+  
+    
+</ContentPage>

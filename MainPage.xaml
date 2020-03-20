@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Glace.MainPage" NavigationPage.HasNavigationBar="False">
+
+    
+    <ScrollView>
+        <StackLayout TranslationY="50" HeightRequest="820" >
+            
+            <StackLayout Orientation="Horizontal" Margin="40,0,20,0">
+                <StackLayout>
+                    <Label Text="Stashally" TextColor="Black" FontSize="30" FontAttributes="Bold" />
+                    <Label Text="Discover the Good Things Together"/>
+                </StackLayout>
+                <Image Source="" />
+            </StackLayout>
+
+
+            <StackLayout Orientation="Horizontal" TranslationY="30">
+                <Button Text="All" TextColor="White" BackgroundColor="Blue" CornerRadius="40"/>
+                <Button Text="Shopping"  BackgroundColor="DarkGray" CornerRadius="40"/>
+                <Button Text="Food"  BackgroundColor="DarkGray" CornerRadius="40"/>
+                <Button Text="Travel"  BackgroundColor="DarkGray" CornerRadius="40"/>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal" TranslationY="40">
+
+                <StackLayout>
+                    <Image Source="images" HeightRequest="100"/>
+                    <Label Text="♥ 98  11 257" TranslationX="30"/>
+                    <Label Text="Colorful candy decorations" TextColor="Black" FontSize="20" TranslationX="30"/>
+                </StackLayout>
+
+                <StackLayout>
+                    <ImageButton Source="img" HeightRequest="200" BackgroundColor="Transparent" x:Name="btn"/>
+                    <Label Text="♥ 98  11 257" TranslationX="30"/>
+                    <Label Text="Colorful candy decorations" TextColor="Black" FontSize="20" TranslationX="30"/>
+                </StackLayout>
+
+            </StackLayout>
+
+
+
+            <StackLayout Orientation="Horizontal"  TranslationY="50">
+
+                <StackLayout>
+                    <Image Source="index1" HeightRequest="300"  WidthRequest="200"/>
+                    <Label Text="♥ 98  11 257" TranslationX="20" TranslationY="-30" />
+                </StackLayout>
+
+                <StackLayout TranslationY="80">
+                    <Image Source="index" HeightRequest="200" />
+                </StackLayout>
+
+            </StackLayout>
+
+
+        </StackLayout>
+    </ScrollView>
+    
+    
+    
+</ContentPage>

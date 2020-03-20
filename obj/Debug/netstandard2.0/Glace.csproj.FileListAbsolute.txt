@@ -1,0 +1,14 @@
+C:\Users\TRAORE\source\repos\Glace\Glace\bin\Debug\netstandard2.0\Glace.deps.json
+C:\Users\TRAORE\source\repos\Glace\Glace\bin\Debug\netstandard2.0\Glace.dll
+C:\Users\TRAORE\source\repos\Glace\Glace\bin\Debug\netstandard2.0\ref\Glace.dll
+C:\Users\TRAORE\source\repos\Glace\Glace\bin\Debug\netstandard2.0\Glace.pdb
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Glace.csprojAssemblyReference.cache
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Glace.AssemblyInfoInputs.cache
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Glace.AssemblyInfo.cs
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Glace.dll
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\ref\Glace.dll
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Glace.pdb
+C:\Users\TRAORE\source\repos\Glace\Glace\obj\Debug\netstandard2.0\Candy.xaml.g.cs
